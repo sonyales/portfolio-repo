@@ -49,5 +49,5 @@
 ## Контакты
 
 - GitHub: [sonyales](https://github.com/sonyales)
-- Telegram: `@o_sonya_e`
-- Email: `sof.lesnikova@gmail.com`
+- Telegram: [@o_sonya_e](https://t.me/o_sonya_e)
+- Email: [sof.lesnikova@gmail.com](mailto:sof.lesnikova@gmail.com)
