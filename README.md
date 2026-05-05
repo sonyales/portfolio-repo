@@ -16,6 +16,7 @@
 | **SkillSwap** | Платформа обмена навыками: пользователи могут предлагать свои умения, искать навыки других пользователей, добавлять избранное и создавать заявки на обмен. Проект показывает работу с React, TypeScript, Redux Toolkit, модульной структурой, тестами и CI. | React, TypeScript, Redux Toolkit, SCSS, Jest, React Testing Library, GitHub Actions | [GitHub](https://github.com/sonyales/SkillSwap) |
 | **Stellar Burgers** | SPA-приложение космической бургерной. Пользователь может собрать бургер, оформить заказ, авторизоваться, управлять профилем, смотреть ленту и историю заказов. В проекте реализованы защищённые маршруты, работа с REST API, глобальное состояние и тестирование. | React, TypeScript, Redux Toolkit, React Router, REST API, Jest, React Testing Library, Cypress, Storybook, Webpack | [GitHub](https://github.com/sonyales/stellar-burgers) |
 | **WebLarek** | Интернет-магазин товаров для веб-разработчиков. Реализованы каталог, карточки товаров, корзина, модальные окна, оформление заказа и отправка данных на сервер. Проект построен по архитектуре MVP. | TypeScript, HTML, SCSS, Vite, MVP, REST API | [GitHub](https://github.com/sonyales/weblarek) |
+| **TimeJar** | Визуальный трекер ожидания до важной даты. Пользователь выбирает дату начала и окончания периода, а приложение рассчитывает прогресс ожидания в процентах и показывает его в виде банки, которая постепенно наполняется. Проект демонстрирует работу с React, TypeScript, состоянием интерфейса, расчётом пользовательских данных и анимацией. | React, TypeScript, Vite, SCSS, Motion | [GitHub](https://github.com/sonyales/time-jar) / [Demo](https://time-jar-nu.vercel.app/) |
 | **Blog Customizer** | Интерфейс для настройки внешнего вида статьи. Пользователь может открыть сайдбар, изменить параметры оформления и применить или сбросить настройки. Проект демонстрирует работу с компонентами, состоянием формы и CSS-переменными. | React, TypeScript, SCSS, Storybook, Webpack | [GitHub](https://github.com/sonyales/blog-customizer) |
 | **Smart Table** | Таблица данных с загрузкой записей с API, поиском, фильтрацией, сортировкой и пагинацией. Проект показывает работу с асинхронными запросами, состоянием интерфейса и обработкой параметров запроса. | JavaScript, Vite, REST API, HTML, CSS | [GitHub](https://github.com/sonyales/smart-table) |
 | **Sales Bonus** | Приложение для анализа продаж: рассчитывает доходность продавцов, формирует рейтинг и считает бонусы. Логика написана на чистом JavaScript без сторонних библиотек. | JavaScript, HTML | [GitHub](https://github.com/sonyales/sales-bonus) |
@@ -43,6 +44,7 @@
 2. [SkillSwap](https://github.com/sonyales/SkillSwap) — современный React/TypeScript-проект с Redux Toolkit, тестами и CI.
 3. [WebLarek](https://github.com/sonyales/weblarek) — TypeScript-проект с MVP-архитектурой и полным циклом покупки.
 4. [Smart Table](https://github.com/sonyales/smart-table) — работа с API, фильтрацией, сортировкой и пагинацией.
+5. [TimeJar](https://github.com/sonyales/time-jar) — визуальный React/TypeScript-трекер ожидания с расчётом прогресса и анимацией.
 
 ---
 
