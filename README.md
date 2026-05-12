@@ -9,6 +9,18 @@
 
 ---
 
+## Что можно посмотреть в первую очередь
+
+Если у вас мало времени, рекомендую начать с этих проектов:
+
+1. [Stellar Burgers](https://github.com/sonyales/stellar-burgers) — полноценное SPA на React и TypeScript.
+2. [SkillSwap](https://github.com/sonyales/SkillSwap) — современный React/TypeScript-проект с Redux Toolkit, тестами и CI.
+3. [WebLarek](https://github.com/sonyales/weblarek) — TypeScript-проект с MVP-архитектурой и полным циклом покупки.
+4. [Smart Table](https://github.com/sonyales/smart-table) — работа с API, фильтрацией, сортировкой и пагинацией.
+5. [TimeJar](https://github.com/sonyales/time-jar) — визуальный React/TypeScript-трекер ожидания с расчётом прогресса и анимацией.
+
+---
+
 ## Ключевые проекты
 
 | Проект | Описание | Стек | Ссылка |
@@ -33,18 +45,6 @@
 | **Оно тебе надо** | Лендинг аукциона необычных вещей. Учебный проект по семантической HTML-разметке, позиционированию и базовой вёрстке. | HTML, CSS | [GitHub](https://github.com/sonyales/ono-tebe-nado-fd) |
 | **Wishbone + Partners** | Лендинг архитектурной студии с секциями о компании, проектах, клиентах и команде. | HTML, CSS | [GitHub](https://github.com/sonyales/Wishbone-Partners_project) |
 | **Landing BS4** | Лендинг, собранный с использованием Bootstrap 4, SCSS и Vite. | HTML, SCSS, Bootstrap 4, JavaScript, Vite | [GitHub](https://github.com/sonyales/landing-bs4) |
-
----
-
-## Что можно посмотреть в первую очередь
-
-Если у вас мало времени, рекомендую начать с этих проектов:
-
-1. [Stellar Burgers](https://github.com/sonyales/stellar-burgers) — полноценное SPA на React и TypeScript.
-2. [SkillSwap](https://github.com/sonyales/SkillSwap) — современный React/TypeScript-проект с Redux Toolkit, тестами и CI.
-3. [WebLarek](https://github.com/sonyales/weblarek) — TypeScript-проект с MVP-архитектурой и полным циклом покупки.
-4. [Smart Table](https://github.com/sonyales/smart-table) — работа с API, фильтрацией, сортировкой и пагинацией.
-5. [TimeJar](https://github.com/sonyales/time-jar) — визуальный React/TypeScript-трекер ожидания с расчётом прогресса и анимацией.
 
 ---
 
