@@ -3,53 +3,84 @@
 Привет! Меня зовут Соня, я frontend-разработчик.  
 В этом репозитории собраны мои проекты: от адаптивной вёрстки до SPA-приложений на React и TypeScript.
 
-## Стек
+**React · TypeScript · разработка интерфейсов и бизнес-логики**
 
-`HTML` `CSS` `SCSS` `JavaScript` `TypeScript` `React` `Redux Toolkit` `React Router` `Vite` `Webpack` `REST API` `Jest` `React Testing Library` `Cypress` `Storybook` `GitHub Actions`
+Разрабатываю веб-приложения: от переиспользуемых компонентов и форм до интеграции с API, маршрутизации, управления состоянием и тестирования. Есть коммерческий опыт командной разработки. Уделяю внимание типизации, архитектуре и предсказуемому поведению интерфейсов.
 
----
+## Коммерческий опыт
 
-## Что можно посмотреть в первую очередь
+### [Linka — платформа для дефектологов](https://github.com/Linka-masterskaya/Web/tree/develop)
 
-Если у вас мало времени, рекомендую начать с этих проектов:
+**Frontend-разработчик · май 2026 — настоящее время**
 
-1. [Stellar Burgers](https://github.com/sonyales/stellar-burgers) — полноценное SPA на React и TypeScript.
-2. [SkillSwap](https://github.com/sonyales/SkillSwap) — современный React/TypeScript-проект с Redux Toolkit, тестами и CI.
-3. [WebLarek](https://github.com/sonyales/weblarek) — TypeScript-проект с MVP-архитектурой и полным циклом покупки.
-4. [Smart Table](https://github.com/sonyales/smart-table) — работа с API, фильтрацией, сортировкой и пагинацией.
-5. [TimeJar](https://github.com/sonyales/time-jar) — визуальный React/TypeScript-трекер ожидания с расчётом прогресса и анимацией.
+- Разработала навигацию по разделам и папкам с синхронизацией URL и получением данных через REST API.
+- Реализовала переиспользуемое конфигурируемое контекстное меню и Drag & Drop для изменения порядка элементов заданий.
+- Создала формы редактирования профиля и восстановления пароля с валидацией через React Hook Form и Zod.
+- Участвовала в разработке интерфейсов управления наборами заданий и компонентной структуры проекта по Feature-Sliced Design.
 
----
+**Стек:** React, TypeScript, TanStack Query, Zustand, React Hook Form, Zod, Mantine, SCSS Modules, dnd-kit.
 
 ## Ключевые проекты
 
-| Проект | Описание | Стек | Ссылка |
-|---|---|---|---|
-| **SkillSwap** | Платформа обмена навыками: пользователи могут предлагать свои умения, искать навыки других пользователей, добавлять избранное и создавать заявки на обмен. Проект показывает работу с React, TypeScript, Redux Toolkit, модульной структурой, тестами и CI. | React, TypeScript, Redux Toolkit, SCSS, Jest, React Testing Library, GitHub Actions | [GitHub](https://github.com/sonyales/SkillSwap) |
-| **Stellar Burgers** | SPA-приложение космической бургерной. Пользователь может собрать бургер, оформить заказ, авторизоваться, управлять профилем, смотреть ленту и историю заказов. В проекте реализованы защищённые маршруты, работа с REST API, глобальное состояние и тестирование. | React, TypeScript, Redux Toolkit, React Router, REST API, Jest, React Testing Library, Cypress, Storybook, Webpack | [GitHub](https://github.com/sonyales/stellar-burgers) |
-| **WebLarek** | Интернет-магазин товаров для веб-разработчиков. Реализованы каталог, карточки товаров, корзина, модальные окна, оформление заказа и отправка данных на сервер. Проект построен по архитектуре MVP. | TypeScript, HTML, SCSS, Vite, MVP, REST API | [GitHub](https://github.com/sonyales/weblarek) |
-| **TimeJar** | Визуальный трекер ожидания до важной даты. Пользователь выбирает дату начала и окончания периода, а приложение рассчитывает прогресс ожидания в процентах и показывает его в виде банки, которая постепенно наполняется. Проект демонстрирует работу с React, TypeScript, состоянием интерфейса, расчётом пользовательских данных и анимацией. | React, TypeScript, Vite, SCSS, Motion | [GitHub](https://github.com/sonyales/time-jar) / [Demo](https://time-jar-nu.vercel.app/) |
-| **Blog Customizer** | Интерфейс для настройки внешнего вида статьи. Пользователь может открыть сайдбар, изменить параметры оформления и применить или сбросить настройки. Проект демонстрирует работу с компонентами, состоянием формы и CSS-переменными. | React, TypeScript, SCSS, Storybook, Webpack | [GitHub](https://github.com/sonyales/blog-customizer) |
-| **Smart Table** | Таблица данных с загрузкой записей с API, поиском, фильтрацией, сортировкой и пагинацией. Проект показывает работу с асинхронными запросами, состоянием интерфейса и обработкой параметров запроса. | JavaScript, Vite, REST API, HTML, CSS | [GitHub](https://github.com/sonyales/smart-table) |
-| **Sales Bonus** | Приложение для анализа продаж: рассчитывает доходность продавцов, формирует рейтинг и считает бонусы. Логика написана на чистом JavaScript без сторонних библиотек. | JavaScript, HTML | [GitHub](https://github.com/sonyales/sales-bonus) |
+### [Shoppa — Telegram Mini App для совместного списка покупок](https://github.com/shoppa-shopping-list/app-frontend)
 
----
+Мобильное приложение внутри Telegram с общим каталогом продуктов, поиском, избранным, корзиной и редактированием товаров.
 
-## Проекты по вёрстке и UI
+- Разработала модульный интерфейс и логику перемещения товаров между списком и корзиной с возможностью отмены.
+- Реализовала серверное состояние на RTK Query и обновление данных в реальном времени через SSE.
+- Добавила офлайн-очередь изменений корзины с хранением в Telegram Device Storage и типизированную интеграцию API по OpenAPI.
+- Настроила модульные и E2E-тесты, проверки качества кода и CI через GitHub Actions.
 
-| Проект | Описание | Стек | Ссылка |
-|---|---|---|---|
-| **Закрывающий тег** | Адаптивная страница с декоративными элементами, интерактивными лайками, анимациями и сохранением на память. | HTML, CSS, JavaScript, адаптивная вёрстка, анимации | [GitHub](https://github.com/sonyales/zakrivayuschiy-teg-f) / [Demo](https://sonyales.github.io/zakrivayuschiy-teg-f/) |
-| **Сложно сосредоточиться** | Адаптивная лендинговая страница о концентрации внимания с несколькими цветовыми темами. | HTML, CSS, JavaScript, адаптивная вёрстка | [GitHub](https://github.com/sonyales/slozhno-sosredotochitsya-fd) |
-| **Посмотри в окно** | Интерфейс для поиска видео по городу и времени суток. Проект показывает работу с готовой разметкой, стилями и интерактивными элементами. | HTML, CSS, JavaScript | [GitHub](https://github.com/sonyales/posmotri-v-okno-fd) |
-| **Оно тебе надо** | Лендинг аукциона необычных вещей. Учебный проект по семантической HTML-разметке, позиционированию и базовой вёрстке. | HTML, CSS | [GitHub](https://github.com/sonyales/ono-tebe-nado-fd) |
-| **Wishbone + Partners** | Лендинг архитектурной студии с секциями о компании, проектах, клиентах и команде. | HTML, CSS | [GitHub](https://github.com/sonyales/Wishbone-Partners_project) |
-| **Landing BS4** | Лендинг, собранный с использованием Bootstrap 4, SCSS и Vite. | HTML, SCSS, Bootstrap 4, JavaScript, Vite | [GitHub](https://github.com/sonyales/landing-bs4) |
+**Стек:** React, TypeScript, Redux Toolkit, RTK Query, React Router, SSE, OpenAPI, SCSS Modules, Vitest, Playwright, GitHub Actions.
 
----
+### [SkillSwap — платформа обмена навыками](https://github.com/sonyales/SkillSwap/tree/dev)
+
+Командный проект: поиск навыков, избранное и заявки на обмен.
+
+- Разработала переиспользуемые UI-компоненты и формы с типизацией, валидацией и обработкой пользовательских сценариев.
+- Работала с Redux Toolkit: slices, reducers, selectors и типизированным состоянием.
+- Тестировала компоненты и бизнес-логику с Jest и React Testing Library.
+
+**Стек:** React, TypeScript, Redux Toolkit, SCSS Modules, Jest, React Testing Library, Storybook.
+
+### [Stellar Burgers — SPA для оформления заказов](https://github.com/sonyales/stellar-burgers)
+
+Приложение с конструктором бургеров, авторизацией, оформлением заказов, профилем и лентой заказов.
+
+- Реализовала регистрацию, вход, восстановление пароля, защищённые маршруты и управление профилем.
+- Настроила работу с REST API, асинхронными запросами и состоянием через Redux Toolkit.
+- Покрыла бизнес-логику unit-тестами, а ключевые пользовательские сценарии — E2E-тестами.
+
+**Стек:** React, TypeScript, Redux Toolkit, React Router, REST API, CSS Modules, Jest, Cypress, Storybook.
+
+## Дополнительные проекты
+
+| Проект | Описание | Стек |
+|---|---|---|
+| [TimeJar](https://github.com/sonyales/time-jar) · [Демо](https://time-jar-nu.vercel.app/) | Трекер ожидания: расчёт прогресса между датами, сохранение периода, анимация заполнения. | React, TypeScript, SCSS, Motion |
+| [Web-Larёk](https://github.com/sonyales/weblarek) | Каталог, корзина, оформление заказа, событийная архитектура MVP. | TypeScript, SCSS, Vite, REST API |
+| [Smart Table](https://github.com/sonyales/smart-table) | Таблица продаж с поиском, фильтрацией, сортировкой, пагинацией и API. | JavaScript, Fetch API, Vite |
+| [Blog Customizer](https://github.com/sonyales/blog-customizer) | Настройка оформления статьи через форму и CSS-переменные. | React, TypeScript, SCSS, Storybook |
+| [Sales Bonus](https://github.com/sonyales/sales-bonus) | Расчёт показателей продаж, рейтингов и бонусов на чистом JS. | JavaScript, HTML |
+
+## Вёрстка и UI
+
+- [Закрывающий тег](https://github.com/sonyales/zakrivayuschiy-teg-f) · [Демо](https://sonyales.github.io/zakrivayuschiy-teg-f/) — адаптивная страница с интерактивностью и анимациями.
+- [Сложно сосредоточиться](https://github.com/sonyales/slozhno-sosredotochitsya-fd) — адаптивный лендинг с цветовыми темами.
+- [Посмотри в окно](https://github.com/sonyales/posmotri-v-okno-fd) — интерфейс поиска видео.
+- [Оно тебе надо](https://github.com/sonyales/ono-tebe-nado-fd) — семантическая HTML-вёрстка.
+- [Wishbone + Partners](https://github.com/sonyales/Wishbone-Partners_project) — лендинг архитектурной студии.
+- [Landing BS4](https://github.com/sonyales/landing-bs4) — адаптивный лендинг на Bootstrap 4 и SCSS.
+
+## Технологии
+
+- **Основа:** JavaScript, TypeScript, React, HTML5, CSS3, SCSS, CSS Modules
+- **Данные и состояние:** Redux Toolkit, RTK Query, TanStack Query, Zustand, REST API, SSE, OpenAPI, React Router
+- **Формы и UI:** React Hook Form, Zod, Mantine, dnd-kit, Motion, Figma
+- **Тестирование и инструменты:** Jest, React Testing Library, Vitest, Playwright, Cypress, Storybook, Git, Vite, Webpack, GitHub Actions
 
 ## Контакты
 
-- GitHub: [sonyales](https://github.com/sonyales)
-- Telegram: [@o_sonya_e](https://t.me/o_sonya_e)
-- Email: [sof.lesnikova@gmail.com](mailto:sof.lesnikova@gmail.com)
+- [GitHub](https://github.com/sonyales)
+- [Telegram](https://t.me/o_sonya_e)
+- [Email](mailto:sof.lesnikova@gmail.com)
